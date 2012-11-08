@@ -8,7 +8,7 @@ ListView-DragAndDrop
 
 2.手势滑动删除.
 
-![Screenshot](https://github.com/willnewii/ListView-DragAndDr/Screenshot.jpg)
+![Screenshot](https://github.com/willnewii/ListView-DragAndDrop/blob/master/Screenshot.jpg?raw=true)
 
 其实这些功能都比较零散,只是那些天碰巧把这些功能都在这个项目里做了实现.
 可以适当选择使用.
